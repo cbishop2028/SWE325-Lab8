@@ -183,3 +183,16 @@ GitHub renders each - [ ] item as an interactive checkbox. A checked item is wri
 Decision: accepted
 Reason: The checklist provides a clear and concise way of making sure a pull request is done correctly.
 Related GitHub URL: https://github.com/cbishop2028/SWE325-Lab8/blob/github-ai-workflow/workflow-notes.md
+
+Lab 8 reflection questions:
+
+1. Which GitHub action or object was most useful to you, and why?
+I think the most useful GitHub action is the pull request because it makes you review your changes before making a huge commitment by merging into the main project.
+2. Which AI suggestion did you accept, and what made it useful?
+I accepted the AI suggestion to improve the README.md file. This change made the file into a list of things that would be learned/done in the repository. This made the requirements easier to understand.
+3. Which AI suggestion did you revise or reject, and why?
+I did not revise or reject any of the suggestions. I thought they all improved the repository.
+4. What did you verify yourself instead of trusting the AI?
+I verified the checklist that it gave me to make sure everything had reasonable requirements. Most of them are things we have already been instructed to do from this class.
+5. What would you change in your GitHub workflow next time?
+I like how everything went this time. I think the one thing I would change would be adding screenshots just for some form of secondary validation for the AI.
