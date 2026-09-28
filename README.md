@@ -1,3 +1,16 @@
-# SWE325-Lab8
+# SWE 325 Lab 8: GitHub Issues
 
-This repository serves the purpose of the home for lab 8 of SWE325. This is a project that teaches us how to use GitHub issues, while using the skills we have already learned throughout the class. Our goal is to use all these things to create a clear, navigable, and easy to understand project. 
+## Overview
+
+This repository contains Lab 8 for SWE 325. The lab focuses on using
+GitHub Issues to organize, discuss, and track work within a software project.
+
+## Learning Objectives
+
+In this lab, we will:
+
+- Create and manage GitHub issues.
+- Write clear issue titles and descriptions.
+- Use issues to track project tasks and progress.
+- Apply Git and GitHub skills introduced earlier in the course.
+- Organize the repository so that it is clear and easy to navigate.
